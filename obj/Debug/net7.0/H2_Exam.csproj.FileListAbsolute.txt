@@ -1,0 +1,15 @@
+/Users/paul/Documents/H2_Exam/bin/Debug/net7.0/H2_Exam
+/Users/paul/Documents/H2_Exam/bin/Debug/net7.0/H2_Exam.deps.json
+/Users/paul/Documents/H2_Exam/bin/Debug/net7.0/H2_Exam.runtimeconfig.json
+/Users/paul/Documents/H2_Exam/bin/Debug/net7.0/H2_Exam.dll
+/Users/paul/Documents/H2_Exam/bin/Debug/net7.0/H2_Exam.pdb
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.csproj.AssemblyReference.cache
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.AssemblyInfoInputs.cache
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.AssemblyInfo.cs
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.csproj.CoreCompileInputs.cache
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.dll
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/refint/H2_Exam.dll
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.pdb
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/H2_Exam.genruntimeconfig.cache
+/Users/paul/Documents/H2_Exam/obj/Debug/net7.0/ref/H2_Exam.dll
